@@ -1,0 +1,54 @@
+/* Starter overlay derived from griffin-paper-design-system.md.
+   Import AFTER the target app's theme stylesheet. Apply class griffin-theme
+   to the light-mode document root. Upstream sources remain unchanged. */
+:root.griffin-theme {
+  color-scheme: light;
+  --background: #f3f1ee;
+  --foreground: #141311;
+  --card: #ffffff;
+  --card-foreground: #141311;
+  --popover: #ffffff;
+  --popover-foreground: #141311;
+  --primary: #141311;
+  --primary-foreground: #f7f5f2;
+  --secondary: #ece9e4;
+  --secondary-foreground: #141311;
+  --muted: #ece9e4;
+  --muted-foreground: #6f6a64;
+  --accent: #ece9e4;
+  --accent-foreground: #141311;
+  --border: #e2dcd4;
+  --input: #e2dcd4;
+  --ring: #c8102e;
+  --destructive: #c8102e;
+  --destructive-foreground: #ffffff;
+  --brand: #c8102e;
+  --brand-hover: #a50d25;
+  --brand-soft: #f8e8eb;
+  --chart-1: #c8102e;
+  --chart-2: #141311;
+  --chart-3: #57534e;
+  --chart-4: #8e887f;
+  --chart-5: #c9c2b8;
+  --sidebar: #111110;
+  --sidebar-foreground: #c8c4be;
+  --sidebar-primary: #c8102e;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #1a1918;
+  --sidebar-accent-foreground: #f7f5f2;
+  --sidebar-border: #f7f5f21f;
+  --sidebar-ring: #c8102e;
+  --radius: 0.75rem;
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Newsreader", Georgia, serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+.griffin-theme [data-slot="chart"] { min-width: 0; }
+/* Recharts animation must separately honor reduced motion via React props. */
+@media (prefers-reduced-motion: reduce) {
+  .griffin-theme *, .griffin-theme *::before, .griffin-theme *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
