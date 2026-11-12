@@ -1,7 +1,8 @@
 # Griffin Design Atlas
 
 A private interactive bento gallery of the canonical New York v4 shadcn collection:
-70 charts, 61 core components, 239 usage examples, and 27 page layouts.
+70 charts, 61 core components, 239 usage examples, 27 page layouts, and 36
+interactive transition patterns.
 
 ## Develop and build
 
@@ -33,9 +34,23 @@ setup tab explains initialization, supporting files, dependency versions,
 aliases, and framework-specific requirements. Additional Base, Aria, and style
 families are available in the complete upstream capture, not duplicated here.
 
+The **Transitions** group (36 entries) is adapted from
+https://github.com/Jakubantalik/transitions.dev (source: https://transitions.dev/),
+a library of 36 portable CSS transition patterns. Its own README permits
+unlimited personal and commercial use, including modification, as long as the
+library itself is not redistributed as a competing transitions kit; this
+gallery uses the patterns as individual catalog entries, not as a redistributed
+copy of the library. Each pattern's documented CSS (custom properties, the
+`.t-*` rule, and its `prefers-reduced-motion` guard) is reproduced verbatim
+inside a self-contained React component, with the pattern's own JavaScript
+orchestration re-expressed as React state and event handlers (no
+`document.querySelector`/direct DOM mutation) so each demo renders safely
+under the same server-render validation as every other entry and is driven
+entirely by the demo's own interactions (click, hover, focus).
+
 ## Verification
 
-Production Vite build succeeded. Server-render validation covers all 397
+Production Vite build succeeded. Server-render validation covers all 433
 catalog entries, with no rendering errors or missing listed source files.
 Browser visual and interaction QA was unavailable in the execution environment;
 no browser-pass claim is made. Validate target-project integration separately.
@@ -49,6 +64,6 @@ Vercel builds the root project using Node 22, `npm ci`, `npm run build`, and the
 integration is connected; feature branches receive preview deployments.
 No environment variables or backend services are required.
 
-Run `npm run dev` locally. Use `npm run validate` for the 397-entry render and
+Run `npm run dev` locally. Use `npm run validate` for the 433-entry render and
 source-file checks. Repository visibility and deployed-site access are separate
 settings; making this repository private does not itself protect a deployed URL.

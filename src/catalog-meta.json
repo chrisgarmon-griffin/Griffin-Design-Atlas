@@ -7054,7 +7054,7 @@
     "title": "Accordion",
     "group": "Components",
     "family": "accordion",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/accordion.tsx",
     "files": [
       "components/examples/accordion-demo.tsx",
@@ -7073,7 +7073,7 @@
     "title": "Alert Dialog",
     "group": "Components",
     "family": "alert-dialog",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/alert-dialog.tsx",
     "files": [
       "components/examples/alert-dialog-demo.tsx",
@@ -7093,7 +7093,7 @@
     "title": "Alert",
     "group": "Components",
     "family": "alert",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/alert.tsx",
     "files": [
       "components/examples/alert-demo.tsx",
@@ -7112,7 +7112,7 @@
     "title": "Aspect Ratio",
     "group": "Components",
     "family": "aspect-ratio",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/aspect-ratio.tsx",
     "files": [
       "components/examples/aspect-ratio-demo.tsx",
@@ -7129,7 +7129,7 @@
     "title": "Attachment",
     "group": "Components",
     "family": "attachment",
-    "description": "Core primitive \u00b7 custom demo composition",
+    "description": "Core primitive · custom demo composition",
     "entry": "components/ui/attachment.tsx",
     "files": [
       "components/atlas-previews.tsx",
@@ -7165,7 +7165,7 @@
     "title": "Avatar",
     "group": "Components",
     "family": "avatar",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/avatar.tsx",
     "files": [
       "components/examples/avatar-demo.tsx",
@@ -7183,7 +7183,7 @@
     "title": "Badge",
     "group": "Components",
     "family": "badge",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/badge.tsx",
     "files": [
       "components/examples/badge-demo.tsx",
@@ -7203,7 +7203,7 @@
     "title": "Breadcrumb",
     "group": "Components",
     "family": "breadcrumb",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/breadcrumb.tsx",
     "files": [
       "components/examples/breadcrumb-demo.tsx",
@@ -7224,7 +7224,7 @@
     "title": "Bubble",
     "group": "Components",
     "family": "bubble",
-    "description": "Core primitive \u00b7 custom demo composition",
+    "description": "Core primitive · custom demo composition",
     "entry": "components/ui/bubble.tsx",
     "files": [
       "components/atlas-previews.tsx",
@@ -7260,7 +7260,7 @@
     "title": "Button Group",
     "group": "Components",
     "family": "button-group",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/button-group.tsx",
     "files": [
       "components/examples/button-group-demo.tsx",
@@ -7283,7 +7283,7 @@
     "title": "Button",
     "group": "Components",
     "family": "button",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/button.tsx",
     "files": [
       "components/examples/button-demo.tsx",
@@ -7303,7 +7303,7 @@
     "title": "Calendar",
     "group": "Components",
     "family": "calendar",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/calendar.tsx",
     "files": [
       "components/examples/calendar-demo.tsx",
@@ -7325,7 +7325,7 @@
     "title": "Card",
     "group": "Components",
     "family": "card",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/card.tsx",
     "files": [
       "components/examples/card-demo.tsx",
@@ -7347,7 +7347,7 @@
     "title": "Carousel",
     "group": "Components",
     "family": "carousel",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/carousel.tsx",
     "files": [
       "components/examples/carousel-demo.tsx",
@@ -7370,7 +7370,7 @@
     "title": "Chart",
     "group": "Components",
     "family": "chart",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/chart.tsx",
     "files": [
       "components/charts/chart-area-default.tsx",
@@ -7390,7 +7390,7 @@
     "title": "Checkbox",
     "group": "Components",
     "family": "checkbox",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/checkbox.tsx",
     "files": [
       "components/examples/checkbox-demo.tsx",
@@ -7410,7 +7410,7 @@
     "title": "Collapsible",
     "group": "Components",
     "family": "collapsible",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/collapsible.tsx",
     "files": [
       "components/examples/collapsible-demo.tsx",
@@ -7431,7 +7431,7 @@
     "title": "Combobox",
     "group": "Components",
     "family": "combobox",
-    "description": "Core primitive \u00b7 custom demo composition",
+    "description": "Core primitive · custom demo composition",
     "entry": "components/ui/combobox.tsx",
     "files": [
       "components/atlas-previews.tsx",
@@ -7467,7 +7467,7 @@
     "title": "Command",
     "group": "Components",
     "family": "command",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/command.tsx",
     "files": [
       "components/examples/command-demo.tsx",
@@ -7490,7 +7490,7 @@
     "title": "Context Menu",
     "group": "Components",
     "family": "context-menu",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/context-menu.tsx",
     "files": [
       "components/examples/context-menu-demo.tsx",
@@ -7509,7 +7509,7 @@
     "title": "Dialog",
     "group": "Components",
     "family": "dialog",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/dialog.tsx",
     "files": [
       "components/examples/dialog-demo.tsx",
@@ -7532,7 +7532,7 @@
     "title": "Direction",
     "group": "Components",
     "family": "direction",
-    "description": "Core primitive \u00b7 custom demo composition",
+    "description": "Core primitive · custom demo composition",
     "entry": "components/ui/direction.tsx",
     "files": [
       "components/atlas-previews.tsx",
@@ -7568,7 +7568,7 @@
     "title": "Drawer",
     "group": "Components",
     "family": "drawer",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/drawer.tsx",
     "files": [
       "components/examples/drawer-demo.tsx",
@@ -7591,7 +7591,7 @@
     "title": "Dropdown Menu",
     "group": "Components",
     "family": "dropdown-menu",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/dropdown-menu.tsx",
     "files": [
       "components/examples/dropdown-menu-demo.tsx",
@@ -7612,7 +7612,7 @@
     "title": "Empty",
     "group": "Components",
     "family": "empty",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/empty.tsx",
     "files": [
       "components/examples/empty-demo.tsx",
@@ -7634,7 +7634,7 @@
     "title": "Field",
     "group": "Components",
     "family": "field",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/field.tsx",
     "files": [
       "components/examples/field-demo.tsx",
@@ -7661,7 +7661,7 @@
     "title": "Hover Card",
     "group": "Components",
     "family": "hover-card",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/hover-card.tsx",
     "files": [
       "components/examples/hover-card-demo.tsx",
@@ -7683,7 +7683,7 @@
     "title": "Input Group",
     "group": "Components",
     "family": "input-group",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/input-group.tsx",
     "files": [
       "components/examples/input-group-demo.tsx",
@@ -7710,7 +7710,7 @@
     "title": "Input Otp",
     "group": "Components",
     "family": "input-otp",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/input-otp.tsx",
     "files": [
       "components/examples/input-otp-demo.tsx",
@@ -7729,7 +7729,7 @@
     "title": "Input",
     "group": "Components",
     "family": "input",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/input.tsx",
     "files": [
       "components/examples/input-demo.tsx",
@@ -7746,7 +7746,7 @@
     "title": "Item",
     "group": "Components",
     "family": "item",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/item.tsx",
     "files": [
       "components/examples/item-demo.tsx",
@@ -7768,7 +7768,7 @@
     "title": "Kbd",
     "group": "Components",
     "family": "kbd",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/kbd.tsx",
     "files": [
       "components/examples/kbd-demo.tsx",
@@ -7784,7 +7784,7 @@
     "title": "Label",
     "group": "Components",
     "family": "label",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/label.tsx",
     "files": [
       "components/examples/label-demo.tsx",
@@ -7804,7 +7804,7 @@
     "title": "Marker",
     "group": "Components",
     "family": "marker",
-    "description": "Core primitive \u00b7 custom demo composition",
+    "description": "Core primitive · custom demo composition",
     "entry": "components/ui/marker.tsx",
     "files": [
       "components/atlas-previews.tsx",
@@ -7840,7 +7840,7 @@
     "title": "Menubar",
     "group": "Components",
     "family": "menubar",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/menubar.tsx",
     "files": [
       "components/examples/menubar-demo.tsx",
@@ -7859,7 +7859,7 @@
     "title": "Message Scroller",
     "group": "Components",
     "family": "message-scroller",
-    "description": "Core primitive \u00b7 custom demo composition",
+    "description": "Core primitive · custom demo composition",
     "entry": "components/ui/message-scroller.tsx",
     "files": [
       "components/atlas-previews.tsx",
@@ -7895,7 +7895,7 @@
     "title": "Message",
     "group": "Components",
     "family": "message",
-    "description": "Core primitive \u00b7 custom demo composition",
+    "description": "Core primitive · custom demo composition",
     "entry": "components/ui/message.tsx",
     "files": [
       "components/atlas-previews.tsx",
@@ -7931,7 +7931,7 @@
     "title": "Native Select",
     "group": "Components",
     "family": "native-select",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/native-select.tsx",
     "files": [
       "components/examples/native-select-demo.tsx",
@@ -7949,7 +7949,7 @@
     "title": "Navigation Menu",
     "group": "Components",
     "family": "navigation-menu",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/navigation-menu.tsx",
     "files": [
       "components/examples/navigation-menu-demo.tsx",
@@ -7971,7 +7971,7 @@
     "title": "Pagination",
     "group": "Components",
     "family": "pagination",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/pagination.tsx",
     "files": [
       "components/examples/pagination-demo.tsx",
@@ -7992,7 +7992,7 @@
     "title": "Popover",
     "group": "Components",
     "family": "popover",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/popover.tsx",
     "files": [
       "components/examples/popover-demo.tsx",
@@ -8014,7 +8014,7 @@
     "title": "Progress",
     "group": "Components",
     "family": "progress",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/progress.tsx",
     "files": [
       "components/examples/progress-demo.tsx",
@@ -8032,7 +8032,7 @@
     "title": "Radio Group",
     "group": "Components",
     "family": "radio-group",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/radio-group.tsx",
     "files": [
       "components/examples/radio-group-demo.tsx",
@@ -8052,7 +8052,7 @@
     "title": "Resizable",
     "group": "Components",
     "family": "resizable",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/resizable.tsx",
     "files": [
       "components/examples/resizable-demo.tsx",
@@ -8070,7 +8070,7 @@
     "title": "Scroll Area",
     "group": "Components",
     "family": "scroll-area",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/scroll-area.tsx",
     "files": [
       "components/examples/scroll-area-demo.tsx",
@@ -8089,7 +8089,7 @@
     "title": "Select",
     "group": "Components",
     "family": "select",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/select.tsx",
     "files": [
       "components/examples/select-demo.tsx",
@@ -8108,7 +8108,7 @@
     "title": "Separator",
     "group": "Components",
     "family": "separator",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/separator.tsx",
     "files": [
       "components/examples/separator-demo.tsx",
@@ -8126,7 +8126,7 @@
     "title": "Sheet",
     "group": "Components",
     "family": "sheet",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/sheet.tsx",
     "files": [
       "components/examples/sheet-demo.tsx",
@@ -8149,7 +8149,7 @@
     "title": "Sidebar",
     "group": "Components",
     "family": "sidebar",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/sidebar.tsx",
     "files": [
       "components/blocks/sidebar-01/components/app-sidebar.tsx",
@@ -8182,7 +8182,7 @@
     "title": "Skeleton",
     "group": "Components",
     "family": "skeleton",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/skeleton.tsx",
     "files": [
       "components/examples/skeleton-demo.tsx",
@@ -8198,7 +8198,7 @@
     "title": "Slider",
     "group": "Components",
     "family": "slider",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/slider.tsx",
     "files": [
       "components/examples/slider-demo.tsx",
@@ -8216,7 +8216,7 @@
     "title": "Sonner",
     "group": "Components",
     "family": "sonner",
-    "description": "Core primitive \u00b7 custom demo composition",
+    "description": "Core primitive · custom demo composition",
     "entry": "components/ui/sonner.tsx",
     "files": [
       "components/atlas-previews.tsx",
@@ -8254,7 +8254,7 @@
     "title": "Spinner",
     "group": "Components",
     "family": "spinner",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/spinner.tsx",
     "files": [
       "components/examples/spinner-demo.tsx",
@@ -8276,7 +8276,7 @@
     "title": "Switch",
     "group": "Components",
     "family": "switch",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/switch.tsx",
     "files": [
       "components/examples/switch-demo.tsx",
@@ -8295,7 +8295,7 @@
     "title": "Table",
     "group": "Components",
     "family": "table",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/table.tsx",
     "files": [
       "components/examples/table-demo.tsx",
@@ -8312,7 +8312,7 @@
     "title": "Tabs",
     "group": "Components",
     "family": "tabs",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/tabs.tsx",
     "files": [
       "components/examples/tabs-demo.tsx",
@@ -8336,7 +8336,7 @@
     "title": "Textarea",
     "group": "Components",
     "family": "textarea",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/textarea.tsx",
     "files": [
       "components/examples/textarea-demo.tsx",
@@ -8353,7 +8353,7 @@
     "title": "Toggle Group",
     "group": "Components",
     "family": "toggle-group",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/toggle-group.tsx",
     "files": [
       "components/examples/toggle-group-demo.tsx",
@@ -8374,7 +8374,7 @@
     "title": "Toggle",
     "group": "Components",
     "family": "toggle",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/toggle.tsx",
     "files": [
       "components/examples/toggle-demo.tsx",
@@ -8394,7 +8394,7 @@
     "title": "Tooltip",
     "group": "Components",
     "family": "tooltip",
-    "description": "Core primitive \u00b7 representative usage",
+    "description": "Core primitive · representative usage",
     "entry": "components/ui/tooltip.tsx",
     "files": [
       "components/examples/tooltip-demo.tsx",
@@ -8414,7 +8414,7 @@
     "title": "Form",
     "group": "Components",
     "family": "form",
-    "description": "Core primitive \u00b7 custom demo composition",
+    "description": "Core primitive · custom demo composition",
     "entry": "components/ui/form.tsx",
     "files": [
       "components/atlas-previews.tsx",
@@ -8444,5 +8444,509 @@
       "sonner"
     ],
     "previewEntry": "components/atlas-previews.tsx"
+  },
+  {
+    "id": "transition-card-resize",
+    "title": "Card Resize",
+    "group": "Transitions",
+    "family": "layout",
+    "description": "Tween a container's width or height when its layout state changes.",
+    "entry": "components/transitions/transition-card-resize.tsx",
+    "files": [
+      "components/transitions/transition-card-resize.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-number-pop-in",
+    "title": "Number Pop-in",
+    "group": "Transitions",
+    "family": "data",
+    "description": "Swap changed digits on a 3D drum with a bounce when a number updates.",
+    "entry": "components/transitions/transition-number-pop-in.tsx",
+    "files": [
+      "components/transitions/transition-number-pop-in.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-notification-badge",
+    "title": "Notification Badge",
+    "group": "Transitions",
+    "family": "feedback",
+    "description": "Slide a small badge onto a trigger and pop the dot.",
+    "entry": "components/transitions/transition-notification-badge.tsx",
+    "files": [
+      "components/transitions/transition-notification-badge.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-text-states-swap",
+    "title": "Text States Swap",
+    "group": "Transitions",
+    "family": "text",
+    "description": "Swap text in place with a blurred up-and-down transition.",
+    "entry": "components/transitions/transition-text-states-swap.tsx",
+    "files": [
+      "components/transitions/transition-text-states-swap.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-menu-dropdown",
+    "title": "Menu Dropdown",
+    "group": "Transitions",
+    "family": "navigation",
+    "description": "Open an origin-aware dropdown that grows from its trigger.",
+    "entry": "components/transitions/transition-menu-dropdown.tsx",
+    "files": [
+      "components/transitions/transition-menu-dropdown.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-modal",
+    "title": "Modal Open/Close",
+    "group": "Transitions",
+    "family": "overlay",
+    "description": "Scale-up modal dialog with a softer scale-down on close.",
+    "entry": "components/transitions/transition-modal.tsx",
+    "files": [
+      "components/transitions/transition-modal.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-panel-reveal",
+    "title": "Panel Reveal",
+    "group": "Transitions",
+    "family": "layout",
+    "description": "Slide a panel into a region with a cross-blur.",
+    "entry": "components/transitions/transition-panel-reveal.tsx",
+    "files": [
+      "components/transitions/transition-panel-reveal.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-page-side-by-side",
+    "title": "Page Side-by-Side",
+    "group": "Transitions",
+    "family": "navigation",
+    "description": "Slide between two side-by-side pages (list and detail, step 1 and step 2).",
+    "entry": "components/transitions/transition-page-side-by-side.tsx",
+    "files": [
+      "components/transitions/transition-page-side-by-side.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-icon-swap",
+    "title": "Icon Swap",
+    "group": "Transitions",
+    "family": "icon",
+    "description": "Cross-fade two icons in the same slot with blur and scale.",
+    "entry": "components/transitions/transition-icon-swap.tsx",
+    "files": [
+      "components/transitions/transition-icon-swap.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-success-check",
+    "title": "Success Check",
+    "group": "Transitions",
+    "family": "feedback",
+    "description": "Compose fade, rotate, Y-bob and path stroke-draw to celebrate a completed action.",
+    "entry": "components/transitions/transition-success-check.tsx",
+    "files": [
+      "components/transitions/transition-success-check.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-avatar-group-hover",
+    "title": "Avatar Group Hover",
+    "group": "Transitions",
+    "family": "input",
+    "description": "Distance-falloff lift on a row of items with a bouncy spring on return.",
+    "entry": "components/transitions/transition-avatar-group-hover.tsx",
+    "files": [
+      "components/transitions/transition-avatar-group-hover.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-error-state-shake",
+    "title": "Error State Shake",
+    "group": "Transitions",
+    "family": "input",
+    "description": "Per-segment cubic-bezier shake with auto-reverting border and message.",
+    "entry": "components/transitions/transition-error-state-shake.tsx",
+    "files": [
+      "components/transitions/transition-error-state-shake.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-input-clear-dissolve",
+    "title": "Input Clear with Dissolve",
+    "group": "Transitions",
+    "family": "input",
+    "description": "Fly-out and per-word streak when a text field is cleared.",
+    "entry": "components/transitions/transition-input-clear-dissolve.tsx",
+    "files": [
+      "components/transitions/transition-input-clear-dissolve.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-skeleton-reveal",
+    "title": "Skeleton Loader and Reveal",
+    "group": "Transitions",
+    "family": "loading",
+    "description": "Pulse a placeholder, then cross-fade and cross-blur to the loaded content.",
+    "entry": "components/transitions/transition-skeleton-reveal.tsx",
+    "files": [
+      "components/transitions/transition-skeleton-reveal.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-shimmer-text",
+    "title": "Shimmer Text",
+    "group": "Transitions",
+    "family": "loading",
+    "description": "Sweep a highlight band across muted text on a loop.",
+    "entry": "components/transitions/transition-shimmer-text.tsx",
+    "files": [
+      "components/transitions/transition-shimmer-text.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-tabs-sliding",
+    "title": "Tabs Sliding",
+    "group": "Transitions",
+    "family": "navigation",
+    "description": "Slide the active pill between tabs in a segmented control.",
+    "entry": "components/transitions/transition-tabs-sliding.tsx",
+    "files": [
+      "components/transitions/transition-tabs-sliding.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-tooltip",
+    "title": "Tooltip Open/Close",
+    "group": "Transitions",
+    "family": "feedback",
+    "description": "Delayed fade and scale in, instant out, travels between triggers.",
+    "entry": "components/transitions/transition-tooltip.tsx",
+    "files": [
+      "components/transitions/transition-tooltip.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-texts-reveal",
+    "title": "Texts Reveal",
+    "group": "Transitions",
+    "family": "text",
+    "description": "Staggered blurred rise for stacked text lines, quiet fade out.",
+    "entry": "components/transitions/transition-texts-reveal.tsx",
+    "files": [
+      "components/transitions/transition-texts-reveal.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-card-tilt",
+    "title": "Card Hover Tilt",
+    "group": "Transitions",
+    "family": "input",
+    "description": "Tilt a card in 3D toward the pointer with a cursor-tracked glare.",
+    "entry": "components/transitions/transition-card-tilt.tsx",
+    "files": [
+      "components/transitions/transition-card-tilt.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-plus-menu-morph",
+    "title": "Plus to Menu Morph",
+    "group": "Transitions",
+    "family": "navigation",
+    "description": "Morph a circular trigger into the menu or panel it opens.",
+    "entry": "components/transitions/transition-plus-menu-morph.tsx",
+    "files": [
+      "components/transitions/transition-plus-menu-morph.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-accordion",
+    "title": "Accordion Expand",
+    "group": "Transitions",
+    "family": "layout",
+    "description": "Grow or shrink a panel via grid-rows with a chevron flip.",
+    "entry": "components/transitions/transition-accordion.tsx",
+    "files": [
+      "components/transitions/transition-accordion.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-toast",
+    "title": "Toast Open/Close",
+    "group": "Transitions",
+    "family": "feedback",
+    "description": "Rise a toast from below with fade and cross-blur, slower in than out.",
+    "entry": "components/transitions/transition-toast.tsx",
+    "files": [
+      "components/transitions/transition-toast.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-like-button",
+    "title": "Like Button",
+    "group": "Transitions",
+    "family": "input",
+    "description": "Fill a heart with a pop and particle burst on like.",
+    "entry": "components/transitions/transition-like-button.tsx",
+    "files": [
+      "components/transitions/transition-like-button.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-learn-more-hover",
+    "title": "Learn More Hover",
+    "group": "Transitions",
+    "family": "input",
+    "description": "Slide the chevron and spread its arms into an arrow on hover.",
+    "entry": "components/transitions/transition-learn-more-hover.tsx",
+    "files": [
+      "components/transitions/transition-learn-more-hover.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-checkbox-check",
+    "title": "Checkbox Check",
+    "group": "Transitions",
+    "family": "input",
+    "description": "Fill the box, then stroke-draw the checkmark.",
+    "entry": "components/transitions/transition-checkbox-check.tsx",
+    "files": [
+      "components/transitions/transition-checkbox-check.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-spinning-counter",
+    "title": "Spinning Counter",
+    "group": "Transitions",
+    "family": "data",
+    "description": "Roll digits through the numbers on a 3D drum, landing with a bounce.",
+    "entry": "components/transitions/transition-spinning-counter.tsx",
+    "files": [
+      "components/transitions/transition-spinning-counter.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-toggle",
+    "title": "Toggle",
+    "group": "Transitions",
+    "family": "input",
+    "description": "Travel the switch thumb with a double-bounce overshoot.",
+    "entry": "components/transitions/transition-toggle.tsx",
+    "files": [
+      "components/transitions/transition-toggle.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-thinking-states",
+    "title": "Thinking States",
+    "group": "Transitions",
+    "family": "loading",
+    "description": "Shimmer a status line while it holds, then swap it to the next state.",
+    "entry": "components/transitions/transition-thinking-states.tsx",
+    "files": [
+      "components/transitions/transition-thinking-states.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-reasoning-stream",
+    "title": "Reasoning Stream",
+    "group": "Transitions",
+    "family": "text",
+    "description": "Step an agent-reasoning transcript up two lines at a time on a loop.",
+    "entry": "components/transitions/transition-reasoning-stream.tsx",
+    "files": [
+      "components/transitions/transition-reasoning-stream.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-streaming-text",
+    "title": "Streaming Text",
+    "group": "Transitions",
+    "family": "text",
+    "description": "Resolve streamed words one by one through a soft cross-blur.",
+    "entry": "components/transitions/transition-streaming-text.tsx",
+    "files": [
+      "components/transitions/transition-streaming-text.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-matrix-loader",
+    "title": "Matrix Dot Loader",
+    "group": "Transitions",
+    "family": "loading",
+    "description": "Pulse a 4x4 dot matrix in scan, twinkle, orbit and pulse patterns.",
+    "entry": "components/transitions/transition-matrix-loader.tsx",
+    "files": [
+      "components/transitions/transition-matrix-loader.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-banner-stacking",
+    "title": "Banner Stacking",
+    "group": "Transitions",
+    "family": "feedback",
+    "description": "Stack banners like toasts: new ones rise in, older ones push back.",
+    "entry": "components/transitions/transition-banner-stacking.tsx",
+    "files": [
+      "components/transitions/transition-banner-stacking.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-text-morph",
+    "title": "Text Morph",
+    "group": "Transitions",
+    "family": "text",
+    "description": "Keep the letters two labels share and cross-blur only the part that changes, easing its width.",
+    "entry": "components/transitions/transition-text-morph.tsx",
+    "files": [
+      "components/transitions/transition-text-morph.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-text-swap-soft",
+    "title": "Text Swap Soft",
+    "group": "Transitions",
+    "family": "data",
+    "description": "Cross-blur a value into the new one in place, both at once, with no movement.",
+    "entry": "components/transitions/transition-text-swap-soft.tsx",
+    "files": [
+      "components/transitions/transition-text-swap-soft.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-donut-chart",
+    "title": "Donut Chart",
+    "group": "Transitions",
+    "family": "data",
+    "description": "Ring segments with even gaps and rounded corners that morph to new values.",
+    "entry": "components/transitions/transition-donut-chart.tsx",
+    "files": [
+      "components/transitions/transition-donut-chart.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
+  },
+  {
+    "id": "transition-number-subtle-change",
+    "title": "Number Subtle Change",
+    "group": "Transitions",
+    "family": "data",
+    "description": "Cross-fade changed digits in place, rising or falling with the value.",
+    "entry": "components/transitions/transition-number-subtle-change.tsx",
+    "files": [
+      "components/transitions/transition-number-subtle-change.tsx"
+    ],
+    "packages": [
+      "react"
+    ]
   }
 ]
